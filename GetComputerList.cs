@@ -148,8 +148,6 @@ namespace GetComputerList
         {
             try
             {
-                funcProgramRegistryTag("GetComputerList");
-
                 if (objCMDArguments2.bEventLogStartStop)
                 {
                     funcLogToEventLog("GetComputerList", "GetComputerList started successfully.", 1301);

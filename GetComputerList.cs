@@ -247,7 +247,6 @@ namespace GetComputerList
 
             Dictionary<string, string> dCatchTable = new Dictionary<string, string>();
             dCatchTable.Add("funcGetFuncCatchCode", "f0");
-            dCatchTable.Add("funcLicenseCheck", "f1");
             dCatchTable.Add("funcPrintParameterWarning", "f2");
             dCatchTable.Add("funcPrintParameterSyntax", "f3");
             dCatchTable.Add("funcParseCmdArguments", "f4");

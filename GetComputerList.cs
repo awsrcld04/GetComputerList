@@ -43,7 +43,7 @@ namespace GetComputerList
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("GetComputerList (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("GetComputerList");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
